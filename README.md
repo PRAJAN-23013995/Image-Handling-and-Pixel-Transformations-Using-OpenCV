@@ -1,5 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## Program Developed By:
+# Name: PRAJAN P
+# Register Number: 212223240121
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -30,9 +32,7 @@ Display the original, lower contrast, and higher contrast images.
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-## Program Developed By:
-- **Name:** Dharshni V M  
-- **Register Number:** 212223240029
+
 
   ### Ex. No. 01
 
