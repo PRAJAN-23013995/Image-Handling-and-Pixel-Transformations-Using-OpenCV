@@ -78,7 +78,7 @@ img.shape
 
 #### 7. Crop the image to extract any specific (Eagle alone) object from the image.
 ```python
-cr = img_rgb[300:500,300:500] 
+cr = img_rgb[50:425,200:550] 
 plt.imshow(cr)
 plt.title("Cropped Region")
 plt.axis("off")
@@ -223,16 +223,19 @@ plt.show()
  ![Eagle PNG](https://github.com/user-attachments/assets/15511193-11f0-4742-bd34-eb4df77254b4)
 
 - 3.Cropped Eagle
-  
- ![Cropped Eagle](https://github.com/user-attachments/assets/e97777ca-f17a-4964-8282-db90c1d7c852)
+- 
+  ![4c1354fe-f5eb-413a-becb-c249041bbd9d](https://github.com/user-attachments/assets/52831890-45f1-4ad6-bf9e-9c31e68e4bfe)
 
 - 4.Flipped Eagle
-  
- ![Flipped Eagle](https://github.com/user-attachments/assets/6e060e5f-4503-4e94-8b64-185b9b395ec4)
+- 
+  ![9f4ba8d1-9832-46fb-8e68-fbb4f457a7ed](https://github.com/user-attachments/assets/3b0434a5-5f6a-4bee-be38-c1f538ee6144)
 
 - 5.Apollo 11 Saturn V Launch Annotated Image
-  
- ![Annotated](https://github.com/user-attachments/assets/70987fce-7509-4f32-bd09-7e096b12dc83)
+- New image:
+- ![b9098e79-69b5-40a0-8d18-5621186eb2be](https://github.com/user-attachments/assets/f31de02c-368e-4693-9883-fd3c832a8f3c)
+
+ ![de8203d3-f29f-4242-a0a8-aecd137d23a1](https://github.com/user-attachments/assets/43e1f090-d9bb-448d-bcbc-9ec98aca2577)
+
 
 - **ii)** Adjust Image Brightness.
   
